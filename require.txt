@@ -1,0 +1,6 @@
+cmake-3.10.0-rc5-win64-x64.msi
+curl-7.56.1.zip
+dependencies2015.zip
+ffmpeg-20171115-ff8f40a-win64-static.zip
+last_x264.tar.bz2
+qt-opensource-windows-x86-msvc2015_64-5.6.3.exe
